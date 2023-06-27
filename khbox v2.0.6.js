@@ -18,7 +18,7 @@ var jwDefaults = {
   "height": 260,
   "key": "oINlQpof9fCr2gjlKJMV0zXxhq8U5X9xFTGNVv5QVi0/c5TWGej54tRMTvNwxc/q",
   "logo": {
-    "file": "https://blogger.googleusercontent.com/img/a/AVvXsEifupELGg_hKY9BqoqXmRww2vo6NcgKPwqGbvD6csUhh8R1b1ZyvMTtHtjWievvOz1V8yeSVQHfQQuBtO5csePmgOGzDX_xp_p0TxZSxTwfeSed4rqZExa6-EQn4oiK86pO8gTVR4668-ilyL22kHPgHi1ZcVXu9YPhYIkhIvLTRWW_k3Tf3EfaOzRS=s1463",
+    https://lh3.googleusercontent.com/V9JTQUa-KioKzjX9LmSu1evT3n7GszbQ_Q1yKhWsWeFColWdnL6YT4TWbF61dFmqu1QEwKf8KBdJ2GILB0Q=s659-rw",
     link: "/",
     "hide": false,
     "margin": "10",
